@@ -11,7 +11,7 @@
 
     <properties>
         <scala.version>2.11.6</scala.version>
-        <spark.version>1.4.0</spark.version>
+        <spark.version>1.6.2</spark.version>
     </properties>
 
 
@@ -36,7 +36,7 @@
         <dependency>
             <groupId>com.databricks</groupId>
             <artifactId>spark-csv_2.11</artifactId>
-            <version>1.0.3</version>
+            <version>1.4.0</version>
         </dependency>
     </dependencies>
 
